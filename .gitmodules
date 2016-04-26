@@ -1,0 +1,15 @@
+[submodule "icestorm"]
+	path = icestorm
+	url = https://github.com/cliffordwolf/icestorm.git
+[submodule "yosys"]
+	path = yosys
+	url = https://github.com/cliffordwolf/yosys.git
+[submodule "arachne-pnr"]
+	path = arachne-pnr
+	url = https://github.com/cseed/arachne-pnr.git
+[submodule "iverilog"]
+	path = iverilog
+	url = https://github.com/steveicarus/iverilog.git
+[submodule "swapforth"]
+	path = swapforth
+	url = https://github.com/jamesbowman/swapforth.git
